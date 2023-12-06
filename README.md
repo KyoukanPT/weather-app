@@ -8,11 +8,11 @@
 
 <hr>
 
-<h3>Project Folder Directory (Terminal)</h3>
+<h3>Initial Setup</h3>
 
 2 - Download and install <a href="https://nodejs.org/en/download"> Node.js </a> <br>
-3 - npm install<br>
-4 - node app.js
+3 - Terminal: npm install<br>
+4 - Terminal: node app.js
 
 <hr>
 
