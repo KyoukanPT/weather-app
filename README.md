@@ -16,8 +16,8 @@
 
 <h3>Project Folder Directory (Terminal)</h3>
 
-3 - Terminal: npm install<br>
-4 - Terminal: node app.js
+3 - npm install<br>
+4 - node app.js
 
 <hr>
 
