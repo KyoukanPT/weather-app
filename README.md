@@ -33,4 +33,4 @@
 <hr>
 
 <h3>How to use the App?</h3>
-After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a> and write, in the text input, the name of the city that you want to check out the weather.
+After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a> and simply write the name of a city that you want to check the weather and press the submit button.
