@@ -17,7 +17,9 @@
 <h3>Project Folder Directory (Terminal)</h3>
 
 3 - npm install<br>
-4 - node app.js
+4 - npm install <a href="https://expressjs.com/en/starter/installing.html"> Express </a> <br>
+5 - npm install <a href="https://www.npmjs.com/package/body-parser"> Body Parser </a> <br>
+6 - node app.js
 
 <hr>
 
@@ -30,5 +32,5 @@
 
 <hr>
 
-<h3>Browser (After all the above steps)</h3>
-8 - <a href="http://localhost:3000/">http://localhost:3000/</a>
+<h3>How to use the App?</h3>
+After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a> and write, in the text input, the name of the city that you want to check out the weather.
