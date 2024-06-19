@@ -30,5 +30,5 @@
 
 <hr>
 
-<h3>Browser (After the 4 first steps + getting key and id)</h3>
+<h3>Browser (After all the above steps)</h3>
 8 - <a href="http://localhost:3000/">http://localhost:3000/</a>
