@@ -19,7 +19,7 @@
 3 - npm install<br>
 4 - npm install <a href="https://expressjs.com/en/starter/installing.html"> Express </a> <br>
 5 - npm install <a href="https://www.npmjs.com/package/body-parser"> Body Parser </a> <br>
-6 - node app.js
+6 - node app.js <br>
 
 <hr>
 
@@ -33,4 +33,5 @@
 <hr>
 
 <h3>How to use the App?</h3>
-After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a> and simply write the name of a city that you want to check the weather and press the submit button.
+<p> - After running the app with Node, go to <a href="http://localhost:3000/">Localhost</a>.</p>
+<p> - Write the name of a city that you want to check the weather from and press the submit button.</p> 
