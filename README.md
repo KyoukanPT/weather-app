@@ -24,9 +24,9 @@
 <hr>
 
 <h3>How to get and use your API Key</h3>
-5 - Go to this website https://openweathermap.org/ and Register/Sign in<br>
-6 - Then go here https://home.openweathermap.org/api_keys<br>
-7 - Copy your API Key on line 14, where it says "YOUR_API_KEY"<br><br>
+- Go to this website https://openweathermap.org/ and Register/Sign in<br>
+- Then go here https://home.openweathermap.org/api_keys<br>
+- Copy your API Key on line 14, where it says "YOUR_API_KEY"<br><br>
 
 <strong>DO NOT SHARE YOUR API KEY!</strong>
 
