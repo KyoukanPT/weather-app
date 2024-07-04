@@ -4,22 +4,22 @@
 
 <h3>Terminal (Chosen directory to clone the files - Recommended --> Desktop)</h3>
 
-1 - git clone https://github.com/KyoukanPT/weather-app.git
+- git clone https://github.com/KyoukanPT/weather-app.git
 
 <hr>
 
 <h3>Node Installation</h3>
  
- 2 - Download and install <a href="https://nodejs.org/en/download"> Node.js </a> <br> 
+- Download and install <a href="https://nodejs.org/en/download"> Node.js </a> <br> 
 
 <hr>
 
 <h3>Project Folder Directory (Terminal)</h3>
 
-3 - npm install<br>
-4 - npm install <a href="https://expressjs.com/en/starter/installing.html"> Express </a> <br>
-5 - npm install <a href="https://www.npmjs.com/package/body-parser"> Body Parser </a> <br>
-6 - node app.js <br>
+- npm install<br>
+- npm install <a href="https://expressjs.com/en/starter/installing.html"> Express </a> <br>
+- npm install <a href="https://www.npmjs.com/package/body-parser"> Body Parser </a> <br>
+- node app.js <br>
 
 <hr>
 
